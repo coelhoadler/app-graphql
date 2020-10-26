@@ -4,12 +4,12 @@ const userSchema = gql `
     type User {
         nome: String!
         ativo: Boolean!
-        email: String
+        email: String,
+        idade: Int
     }
 
     type Query {
-        users: [User],
-        primeiroUser: User
+        users: [User]
     }
 `;
 
