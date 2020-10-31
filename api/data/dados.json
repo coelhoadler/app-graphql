@@ -2,10 +2,11 @@
   "users": [
     {
       "id": 2,
-      "nome": "Ana Torre",
+      "nome": "Adler",
+      "idade": 27,
       "ativo": true,
-      "email": "a@a.com",
-      "role": 1
+      "email": "adler.coelho.santos@icloud.com",
+      "role": 2
     },
     {
       "id": 2,
@@ -16,10 +17,11 @@
     },
     {
       "id": 3,
-      "nome": "Flavia Lins",
+      "nome": "Adler Teste",
+      "idade": 27,
       "ativo": true,
-      "email": "f@f.com",
-      "role": 1
+      "email": "adler.coelho.santos@icloud.com",
+      "role": 2
     },
     {
       "id": 4,
@@ -279,24 +281,9 @@
       "nome": "Naldo Santos",
       "idade": 27,
       "ativo": true,
-      "role": 2,
-      "id": 38
-    },
-    {
-      "nome": "Naldo Santos",
-      "idade": 27,
-      "ativo": true,
       "email": "adler.coelho.santos@icloud.com",
       "role": 2,
       "id": 39
-    },
-    {
-      "nome": "Naldo Santossss",
-      "idade": 27,
-      "ativo": true,
-      "email": "adler.coelho.santos@icloud.com",
-      "role": 2,
-      "id": 40
     },
     {
       "nome": "Naldo Santossss",
@@ -331,20 +318,13 @@
       "id": 44
     },
     {
-      "nome": "Adriane",
-      "idade": 27,
-      "ativo": true,
-      "email": "adler.coelho.santos@icloud.com",
-      "role": 2,
-      "id": 45
-    },
-    {
       "nome": "Adler",
       "idade": 27,
       "ativo": true,
       "email": "adler.coelho.santos@icloud.com",
       "role": 2,
-      "id": 46
+      "createdAt": "2020-10-30T00:00:00.000Z",
+      "id": 45
     }
   ],
   "roles": [
